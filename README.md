@@ -75,12 +75,9 @@ I'm a data analyst with a passion for uncovering insights and driving strategic 
 ---
 
 ## 📫 Let's Connect!
-- **LinkedIn**: [linkedin.com/in/taifabdullahjh](https://linkedin.com/in/taifabdullahjh)
-- **GitHub**: [github.com/taifabdullah-99](https://github.com/taifabdullah-99)
-- **Portfolio**: [Notion Portfolio](https://bronze-jupiter-64c.notion.site/Taif-Aljouhi-1361444fe73680fc83e3ec4fd4567c3a)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taifabdullahjh)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taifabdullah-99)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bronze-jupiter-64c.notion.site/Taif-Aljouhi-1361444fe73680fc83e3ec4fd4567c3a)
 
 ---
 
