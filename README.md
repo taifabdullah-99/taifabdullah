@@ -4,6 +4,10 @@
 
 I'm a data analyst with a passion for uncovering insights and driving strategic decision-making through data. My journey in data began with a curiosity for patterns and problem-solving, leading me to pursue a career switch into business intelligence. I specialize in using Power BI, Python, and SQL to analyze and visualize data. Here, you'll find a showcase of my projects.
 
+## 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taifabdullahjh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taifabdullah-99)
+[![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bronze-jupiter-64c.notion.site/Taif-Aljouhi-1361444fe73680fc83e3ec4fd4567c3a)
 ---
 
 ## 🔧 Languages & Tools
@@ -72,12 +76,4 @@ I'm a data analyst with a passion for uncovering insights and driving strategic 
   - The dataset includes billing data and energy production metrics across multiple time frames.
 
 ---
-
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/taifabdullahjh)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/taifabdullah-99)
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://bronze-jupiter-64c.notion.site/Taif-Aljouhi-1361444fe73680fc83e3ec4fd4567c3a)
-
----
-
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn.
