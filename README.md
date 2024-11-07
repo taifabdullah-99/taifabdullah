@@ -2,7 +2,7 @@
 
 🌍 **Data Analyst | Business Intelligence | Power BI | Python**
 
-I'm a data analyst with a passion for uncovering insights and driving strategic decision-making through data. My journey in data began with a curiosity for patterns and problem-solving, leading me to pursue a career switch into business intelligence. I specialize in using Power BI, Python, and SQL to analyze and visualize data. Here, you'll find a showcase of my projects from my Business Intelligence bootcamp, where I applied my skills to real-world datasets.
+I'm a data analyst with a passion for uncovering insights and driving strategic decision-making through data. My journey in data began with a curiosity for patterns and problem-solving, leading me to pursue a career switch into business intelligence. I specialize in using Power BI, Python, and SQL to analyze and visualize data. Here, you'll find a showcase of my projects.
 
 ---
 
@@ -77,7 +77,7 @@ I'm a data analyst with a passion for uncovering insights and driving strategic 
 ## 📫 Let's Connect!
 - **LinkedIn**: [linkedin.com/in/taifabdullahjh](https://linkedin.com/in/taifabdullahjh)
 - **GitHub**: [github.com/taifabdullah-99](https://github.com/taifabdullah-99)
-- **Portfolio**: [Notion Portfolio](https://your-notion-link-here)
+- **Portfolio**: [Notion Portfolio](https://bronze-jupiter-64c.notion.site/Taif-Aljouhi-1361444fe73680fc83e3ec4fd4567c3a)
 
 ---
 
