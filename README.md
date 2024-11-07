@@ -81,14 +81,4 @@ I'm a data analyst with a passion for uncovering insights and driving strategic 
 
 ---
 
-## 🌱 About Me
-I'm passionate about using data to tell stories and solve problems. My recent projects have focused on analyzing trends, optimizing operations, and enhancing user engagement. As I continue my journey in data analysis, I'm excited to collaborate on meaningful projects and make an impact through data-driven insights.
-
----
-
-## ⭐️ Highlights
-- **Languages**: Python, SQL
-- **Libraries & Tools**: Power BI, Excel, Tableau, Power Query
-- **Methodologies**: Data Cleaning, Data Visualization, Data Modeling
-
 Thank you for visiting my profile! Feel free to check out my repositories and connect with me on LinkedIn.
